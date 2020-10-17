@@ -1,0 +1,13 @@
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\bin\Debug\MegaDesk_Klein.exe.config
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\bin\Debug\MegaDesk_Klein.exe
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\bin\Debug\MegaDesk_Klein.pdb
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.AddQuote.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.DisplayQuote.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.MainMenu.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.Properties.Resources.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.SearchQuotes.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.ViewAllQuotes.resources
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk-TeamF.csproj.GenerateResource.cache
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk-TeamF.csproj.CoreCompileInputs.cache
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.exe
+C:\Users\cvanr\Source\Repos\MegaDesk-TeamF\MegaDesk-TeamF\obj\Debug\MegaDesk_Klein.pdb
